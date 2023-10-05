@@ -50,7 +50,8 @@ npm i @types/facebook-js-sdk
 
 
 
-
+nvm---------
+nvm install node-version name
 
 
 
