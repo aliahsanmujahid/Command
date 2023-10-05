@@ -52,6 +52,9 @@ npm i @types/facebook-js-sdk
 
 nvm---------
 nvm install node-version name
+nvm install 18.20.0
+nvm ls
+nvm use 10.16.3
 
 
 
