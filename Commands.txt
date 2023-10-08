@@ -7,6 +7,8 @@ ng g service name
 
 npm uninstall @schematics/angular
 npm install @schematics/angular@9.1.0
+npm start --port 44380
+ng serve --port 3456
 
 
 ng add ngx-bootstrap -- ng add @ng-bootstrap/ng-bootstrap
